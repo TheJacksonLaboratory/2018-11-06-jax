@@ -10,9 +10,9 @@ humandate: "Nov 6-7, 2018"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2018-11-06
 enddate: 2018-11-07
-instructor: ["Shane Sanders, David McKenzie, Sue McClatchy"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["susan.mcclatchy@jax.org"]
+instructor: ["Shane Sanders", "David McKenzie", "Anne Deslattes Mays", "Neil Kindlon", "Jason Macklin", "Diogo Troggian Veiga", "Sandeep Namburi"]
+helper: ["Bill Flynn", "Harshpreet Chandok", "Seda Arat", "Ravi Pandey", "Ada Zhan", "Mandy Chen"]
+email: ["shane.sanders@jax.org", "sandeep.namburi@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 51267634876
 ---
