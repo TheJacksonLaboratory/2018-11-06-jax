@@ -13,7 +13,7 @@ enddate: 2018-11-07
 instructor: ["Shane Sanders", "David McKenzie", "Anne Deslattes Mays", "Neil Kindlon", "Jason Macklin", "Diogo Troggian Veiga", "Sandeep Namburi"]
 helper: ["Bill Flynn", "Harshpreet Chandok", "Seda Arat", "Ravi Pandey", "Ada Zhan", "Mandy Chen"]
 email: ["shane.sanders@jax.org", "sandeep.namburi@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2018-11-06-jax
 eventbrite: 51267634876
 ---
 
